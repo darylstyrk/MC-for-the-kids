@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/
+Name[en_US]=Minecraft
+Exec=/home/USER/bin/start_minecraft.pl &
+Comment[en_US]=Let's go see my castle!
+Name=Minecraft
+Comment=Let's go see my castle!
+Icon=/home/USER/.local/icons/minecraft/pick.png
